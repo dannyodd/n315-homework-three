@@ -1,0 +1,14 @@
+{
+  "name": "n315-homework-three",
+  "version": "1.0.0",
+  "description": "Create, Edit and Delete buttons for N315 Homework 3, Fall 2021",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "Daniel Todd",
+  "license": "ISC"
+}
